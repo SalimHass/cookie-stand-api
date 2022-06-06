@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Warning: The lock file is not up to date with the latest changes in pyproject.toml. You may be getting outdated dependencies. Run update to update them.
+=======
+>>>>>>> 58b5fd6c9b6f62a463c7372a96059c16c3c2df98
 asgiref==3.5.2; python_version >= "3.8"
 certifi==2022.5.18.1; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version >= "3.6"
 charset-normalizer==2.0.12; python_full_version >= "3.6.0" and python_version >= "3"
